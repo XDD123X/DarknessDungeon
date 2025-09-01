@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7318b5b7c36eaac47aa82468542dfe07, type: 3}
+  m_Name: Thuy Giap
+  m_EditorClassIdentifier: 
+  itemName: "Hoa\xF8ng Ha\xFBi"
+  itemIcon: {fileID: 21300000, guid: 91056652e1ad48148a2d216671034f48, type: 3}
+  itemID: 22
+  isStackable: 0
+  armorType: 1
+  Armor: 150
+  HPAddition: 500

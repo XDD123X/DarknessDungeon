@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf9863d5d77923499c7d2a605e68cd4, type: 3}
+  m_Name: Thien Xa
+  m_EditorClassIdentifier: 
+  id: 0
+  iconEnable: {fileID: 0}
+  iconDisable: {fileID: 0}
+  Name: 123
+  description: 123
+  activeTime: 12
+  CDTime: 30
+  level: 1
+  radius: 20
+  lightning: {fileID: 6423391037381566286, guid: 86dcd32b8f7a75b40afe3c7a3d682326, type: 3}
+  amount: 30
+  wavesTime: 3
+  DamageBase: 50
+  DamageBaseCaster: 0.2
+  RadiusOfLightning: 1
+  canCrit: 0

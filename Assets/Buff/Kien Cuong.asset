@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a977a69f516b5e4b830250fb5325687, type: 3}
+  m_Name: Kien Cuong
+  m_EditorClassIdentifier: 
+  name: "Kie\xE2n C\xF6\xF4\xF8ng"
+  Duration: 10
+  icon: {fileID: 21300000, guid: b2a74c61d19399748b8bb15b69010d5b, type: 3}
+  isMultiply: 1
+  BaseMultiply: 0.2
+  MultiplyEL: 0.2
+  DurationEL: 4
+  BaseAddition: 10
+  AdditionEL: 0
+  type: 0
+  level: 1

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c87adede015d5174eb62e50c38535d3d, type: 3}
+  m_Name: Truong 8
+  m_EditorClassIdentifier: 
+  itemName: "Va\xEFn Ha\xFBi Tr\xF6\xF4\xEFng"
+  itemIcon: {fileID: 21300000, guid: 3cb2c907b91ebea4697f0010d1503697, type: 3}
+  itemID: 74
+  isStackable: 0
+  weaponType: 2
+  Damage: 0
+  MagicDamage: 200
+  CritDamage: 35
+  CritChance: 25
+  Penetration: 10
+  AttackSpeed: 1.35

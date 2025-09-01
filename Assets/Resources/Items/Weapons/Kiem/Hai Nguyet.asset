@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c87adede015d5174eb62e50c38535d3d, type: 3}
+  m_Name: Hai Nguyet
+  m_EditorClassIdentifier: 
+  itemName: "Ha\xF9i Nguye\xE4t"
+  itemIcon: {fileID: 21300000, guid: 685a424e4a8565846a0534db5181e66a, type: 3}
+  itemID: 37
+  isStackable: 0
+  weaponType: 0
+  Damage: 70
+  MagicDamage: 0
+  CritDamage: 25
+  CritChance: 25
+  Penetration: 15
+  AttackSpeed: 0.85
